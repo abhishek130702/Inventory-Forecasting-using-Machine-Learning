@@ -1,6 +1,6 @@
 ## Inventory Forecasting using Machine Learning
 
-![Inventory Forecasting using Machine Learning]([https://github.com/abhishek130702/Breast-Cancer-Classification/blob/main/Image.335.png](https://github.com/abhishek130702/Inventory-Forecasting-using-Machine-Learning/blob/main/Inventory-Forecasting.png))
+![Inventory Forecasting using Machine Learning]()
 
 ### Inventory forecasting is the process of making estimations about future customer demand over a defined period, using historical data as well as demand drivers to better food production and supply needs.
 
