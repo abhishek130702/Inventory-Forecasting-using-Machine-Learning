@@ -3,6 +3,7 @@
 
 Usually organisations follow tranditional forecasting techniques/algorithms such as Auto Arima, Auto Arima, Sarima, Simple moving average and many more.
 
+![Inventory Forecasting using Machine Learning]([https://github.com/abhishek130702/Breast-Cancer-Classification/blob/main/Image.335.png](https://github.com/abhishek130702/Inventory-Forecasting-using-Machine-Learning/blob/main/Inventory-Forecasting.png))
 
 ## Table of Contents
 ```bash
